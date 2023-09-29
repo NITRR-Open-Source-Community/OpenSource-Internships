@@ -1,6 +1,6 @@
-# **MLH Open Source Fellowship**
+# **[MLH Open Source Fellowship](https://fellowship.mlh.io/)**
 
-![alt text](./MLH.png)
+![alt text](./MLH.jpg)
 Image taken  from [MLH Fellowship](https://fellowship.mlh.io/)
 
 ## Table Of Contents
