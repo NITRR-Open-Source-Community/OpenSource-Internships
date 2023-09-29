@@ -1,4 +1,6 @@
-# **MLH Open Source Fellowship**
+# **<img src="./logo.svg"> MLH Open Source Fellowship Program**
+
+<img src="./mlh.jpg">
 
 **Website** - https://fellowship.mlh.io/
 
@@ -67,3 +69,8 @@ This program consists of `2 phases`:
 
 ## Stipend
 Programs offers a stipend of about `5000 USD` after completion of the remote fellowship program of 12 weeks.(This may vary from country to country) 
+
+
+<p align="center">
+    <img src="./logo_full.svg">
+</p>
