@@ -1,6 +1,8 @@
-# **<img src="./logo.svg">Google Summer Of Code**
+# **Google Summer Of Code**
 
-<img src="./gsoc.jpg">
+<p align="center">
+    <img src="https://summerofcode.withgoogle.com/assets/media/logo.svg">
+</p>
 
 **Website** - https://summerofcode.withgoogle.com/
 
@@ -77,6 +79,9 @@ This program mainly started from May 29th with the start of the Coding Round. Th
 ## Stipend
 This program offers a stipend ranging from `1500 USD` for small projects to `3000 USD` for large projects.
 
-<p align="center">
-    <img src="./logo_full.svg">
-</p>
+## Sources
+
+- https://summerofcode.withgoogle.com/
+- https://developers.google.com/open-source/gsoc/faq
+- https://developers.google.com/open-source/gsoc/timeline
+- https://youtu.be/BhaMF1lMgQI?si=JqxXDPoSNIz2OWog
