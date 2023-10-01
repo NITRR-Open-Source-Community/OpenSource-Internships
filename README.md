@@ -15,8 +15,6 @@ This repository aims to help developers find open source internship programs; th
 
 follow this guideline to adding internship programs.
 
-You can add the name of the organization, link and a brief description of the organization to the `Profiles.md` file. You can use the following format:
-
 - **Name of Organization and link of the organization**
   > brief description of the organization.
 
